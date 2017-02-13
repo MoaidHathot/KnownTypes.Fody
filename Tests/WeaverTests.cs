@@ -2,6 +2,7 @@
 using System.IO;
 using System.Reflection;
 using System.Runtime.Serialization;
+using KnownType.Fody;
 using KnownTypes.Fody;
 using Mono.Cecil;
 using NUnit.Framework;

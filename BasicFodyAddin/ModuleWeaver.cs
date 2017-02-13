@@ -1,9 +1,9 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
+using KnownTypes.Fody;
 using Mono.Cecil;
 using Mono.Cecil.Rocks;
 
-namespace KnownTypes.Fody
+namespace KnownType.Fody
 {
     public class ModuleWeaver
     {
